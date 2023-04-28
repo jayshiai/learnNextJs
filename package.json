@@ -1,0 +1,25 @@
+{
+  "name": "learnnextjs",
+  "version": "1.0.0",
+  "description": "Learning nextjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayshiai/learnNextJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayshiai/learnNextJs/issues"
+  },
+  "homepage": "https://github.com/jayshiai/learnNextJs#readme",
+  "dependencies": {
+    "next": "^13.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
